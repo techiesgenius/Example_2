@@ -41,11 +41,6 @@
       <Name>Ak_TestLogicClass</Name>
       <Link>Classes\Ak_TestLogicClass</Link>
     </Content>
-    <Content Include="AxTable\Ak_TestLogicClassTable">
-      <SubType>Content</SubType>
-      <Name>Ak_TestLogicClassTable</Name>
-      <Link>Tables\Ak_TestLogicClassTable</Link>
-    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.Common.targets" />
   <Import Project="$(BuildTasksDirectory)\Microsoft.Dynamics.Framework.Tools.BuildTasks.targets" />
