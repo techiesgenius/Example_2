@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "Example_2 (USR) [AKT_Model]", "Example_2.rnrproj", "{BCA3A27F-BDEC-4FA6-A03C-778034ADB010}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5883254F-A4E8-4B58-9E7C-0606A7B7CF02}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
