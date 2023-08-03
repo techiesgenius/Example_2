@@ -32,7 +32,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="Classes\" />
     <Folder Include="Tables\" />
   </ItemGroup>
   <ItemGroup>
