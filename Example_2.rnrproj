@@ -36,6 +36,11 @@
     <Folder Include="Tables\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AxClass\Ak_TestLogicClass">
+      <SubType>Content</SubType>
+      <Name>Ak_TestLogicClass</Name>
+      <Link>Classes\Ak_TestLogicClass</Link>
+    </Content>
     <Content Include="AxTable\Ak_TmpTable">
       <SubType>Content</SubType>
       <Name>Ak_TmpTable</Name>
