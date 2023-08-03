@@ -35,18 +35,6 @@
     <Folder Include="Classes\" />
     <Folder Include="Tables\" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="AxClass\Ak_TestLogicClass">
-      <SubType>Content</SubType>
-      <Name>Ak_TestLogicClass</Name>
-      <Link>Classes\Ak_TestLogicClass</Link>
-    </Content>
-    <Content Include="AxTable\Ak_TmpTable">
-      <SubType>Content</SubType>
-      <Name>Ak_TmpTable</Name>
-      <Link>Tables\Ak_TmpTable</Link>
-    </Content>
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.Common.targets" />
   <Import Project="$(BuildTasksDirectory)\Microsoft.Dynamics.Framework.Tools.BuildTasks.targets" />
 </Project>
